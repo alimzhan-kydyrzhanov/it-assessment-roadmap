@@ -1,0 +1,14 @@
+source,target,method,frequency
+A01,A02,file,hourly
+A02,A01,file,hourly
+A01,A03,api,real-time
+A04,A01,db-link,real-time
+A05,A04,api,real-time
+A01,A06,file,daily
+A08,A06,manual,weekly
+A06,A07,file,monthly
+A09,A06,manual,weekly
+A01,A12,db-link,daily
+A06,A12,db-link,daily
+A11,A04,manual,daily
+A04,A12,file,daily

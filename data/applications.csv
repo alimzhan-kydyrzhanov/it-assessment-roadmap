@@ -1,0 +1,13 @@
+app_id,name,domain,business_value,technical_health,annual_cost_eur,users,hosting,vendor_support,age_years
+A01,MedRecord EHR,Clinical,5,2,180000,420,on-prem,ending,14
+A02,LabLink,Clinical,4,3,45000,60,on-prem,yes,9
+A03,PACS Imaging,Clinical,5,4,120000,80,private-cloud,yes,5
+A04,BookIt Scheduling,Patient Access,4,2,30000,150,on-prem,no,12
+A05,Patient Portal,Patient Access,4,4,25000,9000,saas,yes,3
+A06,FinCore ERP,Finance,5,3,210000,70,on-prem,yes,11
+A07,PayrollPlus,HR,3,4,18000,25,saas,yes,4
+A08,Excel Billing Macros,Finance,3,1,0,12,end-user,no,8
+A09,StockTrack Inventory,Operations,2,2,9000,30,on-prem,ending,13
+A10,HR Docs Share,HR,1,3,6000,40,on-prem,yes,7
+A11,Doctor Rota Tool,Operations,3,2,4000,90,on-prem,no,10
+A12,BI Reporting,Analytics,4,3,35000,55,private-cloud,yes,6

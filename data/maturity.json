@@ -1,0 +1,8 @@
+{
+  "Architecture": {"current": 2, "target": 4, "evidence": "No architecture standards; 12 apps, 4 overlapping data stores"},
+  "Infrastructure": {"current": 2, "target": 4, "evidence": "58% of apps on-prem on ageing servers"},
+  "Integrations": {"current": 1, "target": 4, "evidence": "Point-to-point file and DB links, 3 manual interfaces"},
+  "Data & Analytics": {"current": 2, "target": 3, "evidence": "BI reads production databases directly"},
+  "Security & Compliance": {"current": 3, "target": 4, "evidence": "GDPR processes exist, legacy systems lack audit logs"},
+  "Operating Model": {"current": 2, "target": 3, "evidence": "No product ownership; IT works ticket by ticket"}
+}
